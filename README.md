@@ -1,3 +1,10 @@
+### 🎥 데모 영상
+
+<p align="center">
+  <img src="Failed to upload "1B0AA543-6646-4885-8257-504627AE6A38.gif" alt="WebRTC 데모" width="80%">
+</p>
+
+
 # WebRTC P2P 화상 통화 (Vite + React)
 
 Socket.IO 시그널링 서버를 사용해 1:1 WebRTC P2P 화상/음성 통화, 화면 공유, 파일 전송을 지원하는 데모입니다.
