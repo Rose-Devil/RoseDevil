@@ -1,8 +1,4 @@
-### 🎥 데모 영상
 
-<p align="center">
-  <img src="1B0AA543-6646-4885-8257-504627AE6A38.gif" alt="WebRTC 데모" width="80%">
-</p>
 
 
 # WebRTC P2P 화상 통화 (Vite + React)
